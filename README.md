@@ -1,5 +1,5 @@
 <h2>👋 Hi there, welcome to my profile <h2>
-- My name is Heberth Carvalho, and I am a back-end developer and software engineering student from MA, Brazil 🇧🇷💀.
+- My name is Heberth Carvalho, and I am a back-end developer and software engineering student, Brazil 🇧🇷💀.
 
 
 
